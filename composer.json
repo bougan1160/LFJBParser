@@ -1,15 +1,20 @@
 {
-    "name": "bougan1160/lfjb_parser",
-    "description": "description_text",
-    "minimum-stability": "stable",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Yasuaki Kawakami",
-            "email": "bougan1160@gmail.com"
-        }
-    ],
-    "require-dev": {
-        "phpunit/phpunit": "~4.6"
+  "name": "bougan1160/lfjb_parser",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yasuaki Kawakami",
+      "email": "bougan1160@gmail.com"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bougan1160\\LFJBParser\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.6"
+  }
 }
