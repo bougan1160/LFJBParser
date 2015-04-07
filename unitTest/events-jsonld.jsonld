@@ -1,2779 +1,2779 @@
 [
-    {
-@id: "http://lfjb.biwako-hall.or.jp/events/487/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 12:00",
-schema:endDate: "2015-05-02 12:20",
-event:status: null,
-schema:name: "大津商業高等学校吹奏楽部",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "大津商業高等学校吹奏楽部"
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/493/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 14:10",
-schema:endDate: "2015-05-02 14:30",
-event:status: null,
-schema:name: "河瀬中学・高等学校吹奏楽部",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "河瀬中学・高等学校吹奏楽部"
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/499/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 15:55",
-schema:endDate: "2015-05-02 16:15",
-event:status: null,
-schema:name: "稲垣 聡（ピアノ）",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "稲垣 聡（ピアノ）"
-},
-lfjb:program: "J.S.バッハ：フランス組曲 第4番 変ホ長調 BWV815 ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/501/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 17:25",
-schema:endDate: "2015-05-02 17:45",
-event:status: null,
-schema:name: "マーティン・スタンツェライト",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"マーティン・スタンツェライト",
-"（広島交響楽団首席チェロ奏者）"
-]
-},
-lfjb:program: "J.S.バッハ：無伴奏チェロ組曲 第1番 ト長調 BWV1007",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/503/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 18:10",
-schema:endDate: "2015-05-02 18:30",
-event:status: null,
-schema:name: "びわ湖ホール声楽アンサンブル",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"びわ湖ホール声楽アンサンブル",
-"田中信昭（指揮）中嶋 香（ピアノ）"
-]
-},
-lfjb:program: "ヘンデル：オラトリオ「メサイア」より",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/507/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 10:20",
-schema:endDate: "2015-05-03 10:40",
-event:status: null,
-schema:name: "瀬田北中学校吹奏楽部",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "瀬田北中学校吹奏楽部"
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/511/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 11:20",
-schema:endDate: "2015-05-03 11:40",
-event:status: null,
-schema:name: "近江高等学校吹奏楽部",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "近江高等学校吹奏楽部"
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/515/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 12:35",
-schema:endDate: "2015-05-03 12:55",
-event:status: null,
-schema:name: "甲西高等学校吹奏楽部",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "甲西高等学校吹奏楽部"
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/521/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 14:20",
-schema:endDate: "2015-05-03 14:40",
-event:status: null,
-schema:name: "飯嶋幸子、岩川亮子、平尾 悠(ソプラノ)／ 本田華奈子(アルト)／島影聖人、古屋彰久 (テノール)／五島真澄、砂場拓也、 的場正剛(バス)／植松さやか(ピアノ)",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "飯嶋幸子、岩川亮子、平尾 悠(ソプラノ)／ 本田華奈子(アルト)／島影聖人、古屋彰久 (テノール)／五島真澄、砂場拓也、 的場正剛(バス)／植松さやか(ピアノ)"
-},
-lfjb:program: "ヘンデル：歌劇『ジュリオ・チェーザレ』より“この胸に息のある限り” ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/525/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 15:20",
-schema:endDate: "2015-05-03 15:40",
-event:status: null,
-schema:name: "イリーナ・メジューエワ（ピアノ）",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "イリーナ・メジューエワ（ピアノ）"
-},
-lfjb:program: [
-"J.S.バッハ：平均律クラヴィーア曲集第1巻より　プレリュードとフーガ ハ長調",
-"J.S.バッハ：イタリア協奏曲より 第3楽章 ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/529/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 17:30",
-schema:endDate: "2015-05-03 17:50",
-event:status: null,
-schema:name: "IL DONGRIイル・ドングリ　",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"IL DONGRIイル・ドングリ　",
-"中嶋康子（ソプラノ）、森季子（メゾソプラノ） 山本康寛（テノール）、松森 治（バス） 船橋美穂（ピアノ）"
-]
-},
-lfjb:program: "ヘンデル：「メサイア」より",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/519/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 13:50",
-schema:endDate: "2015-05-03 14:10",
-event:status: null,
-schema:name: "FUJIMI Jr. Band",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "FUJIMI Jr. Band"
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/483/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 11:00",
-schema:endDate: "2015-05-02 11:20",
-event:status: null,
-schema:name: "滋賀県高等学校軽音楽部会(JR大津駅前社会実験野外Liveからやってきました!!)",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"滋賀県高等学校軽音楽部会",
-"（JR大津駅前社会実験野外Liveからやってきました!!）"
-]
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/489/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 12:40",
-schema:endDate: "2015-05-02 13:00",
-event:status: null,
-schema:name: "第33回滋賀県ピアノコンクール入賞者",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"中嶋 雫（ピアノ／小学校3・4年部門／滋賀県議会議長賞）",
-"今井菜名子（ピアノ／小学校5・6年部門／滋賀県知事賞）"
-]
-},
-lfjb:program: [
-"J.S.バッハ：インヴェンション 第14番 変ロ長調 ほか",
-"J.S.バッハ：イタリア協奏曲より 第3楽章 ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/491/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 13:40",
-schema:endDate: "2015-05-02 14:00",
-event:status: null,
-schema:name: "ko-trioと仲間たち",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "山本 英（フルート）、岩﨑弓乃（ヴァイオリン） 岩﨑弓夏（チェロ）、黒沼香恋（ピアノ）"
-},
-lfjb:program: "J.S.バッハ：音楽の捧げもの BWV1079より ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/495/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 14:40",
-schema:endDate: "2015-05-02 15:00",
-event:status: null,
-schema:name: "田中玲奈（フルート／兵庫芸術文化センター管弦楽団メンバー） 法貴彩子（ピアノ）",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "田中玲奈（フルート） 法貴彩子（ピアノ）"
-},
-lfjb:program: [
-"ヘンデル：フルート・ソナタ ヘ長調 op1-11",
-"J.S.バッハ：管弦楽組曲 第２番より バディネリ ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/497/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 15:10",
-schema:endDate: "2015-05-02 15:30",
-event:status: null,
-schema:name: "四條畷学園高等学校吹奏楽部　Burning Bravers",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"四條畷学園高等学校吹奏楽部",
-"Burning Bravers(第42回マーチングバンド全国大会／高等学校の部／マーチング部門大編成／銀賞)"
-]
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/485/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 11:30",
-schema:endDate: "2015-05-02 11:50",
-event:status: null,
-schema:name: "日野少年少女合唱団",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"日野少年少女合唱団",
-"菱川きよみ（指揮）"
-]
-},
-lfjb:program: [
-"J.S.バッハ：主よ、人の望みの喜びよ",
-"ヘンデル：オンブラ・マイ・フ ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/505/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 9:50",
-schema:endDate: "2015-05-03 10:10",
-event:status: null,
-schema:name: "大津管弦楽団　金管アンサンブル",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"北村美繁、齋藤信彦（トランペット）岩井桃代（ホルン）",
-"山本晶大、横塚祐衣（トロンボーン）川田良一（チューバ）"
-]
-},
-lfjb:program: "ヘンデル：オンブラ・マイ・フ ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/509/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 10:50",
-schema:endDate: "2015-05-03 11:10",
-event:status: null,
-schema:name: "堀内星良（ヴァイオリン）、今岡秀樹（ヴァイオリン）、村田知穂（ピアノ）",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"堀内星良（ヴァイオリン）",
-"今岡秀輝（ヴァイオリン）",
-"村田知穂（ピアノ）"
-]
-},
-lfjb:program: "ヘンデル：ソナタ ト短調 op.2-7 ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/513/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 12:00",
-schema:endDate: "2015-05-03 12:20",
-event:status: null,
-schema:name: "PARADE（マリンバ三重奏／第6回アンサンブルの楽しみ一般出場者）",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"小泉 渚",
-"山本瑞季",
-"吉田周平"
-]
-},
-lfjb:program: "ヘンデルメドレー「ヘンデル・ヘンデス」（編曲：小泉渚）　ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/517/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 13:20",
-schema:endDate: "2015-05-03 13:40",
-event:status: null,
-schema:name: "びわ湖ホール四大テノール",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"びわ湖ホール四大テノール",
-"（清水徹太郎／竹内直紀／ 二塚直紀／山本康寛）",
-"河合珠江（ピアノ）"
-]
-},
-lfjb:program: [
-"J.S.バッハ：「クリスマス・オラトリオ」より 羊飼いたちよ、喜んで急げ",
-"ヘンデル：見よ！勇者は帰る　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/523/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 14:50",
-schema:endDate: "2015-05-03 15:10",
-event:status: null,
-schema:name: "武庫川女子大学附属中学校・ 高等学校マーチングバンド部 Eins",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"武庫川女子大学附属中学校・ 高等学校マーチングバンド部",
-"Eins(第39回マーチングバンド全国大会／高等学校の部／マーチングバンド部門大編成／金賞)"
-]
-},
-schema:location: {
-schema:address: "滋賀県大津市打出浜１５",
-schema:name: "びわ湖ホール 湖畔広場",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007726",
-schema:longitude: "135.876333"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/527/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 16:50",
-schema:endDate: "2015-05-03 17:10",
-event:status: null,
-schema:name: "高山郁子（京都市交響楽団首席オーボエ奏者）、岡 純子（ピアノ）",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"高山郁子（京都市交響楽団首席オーボエ奏者）",
-"岡 純子（ピアノ）"
-]
-},
-lfjb:program: "J.S.バッハ：ソナタ ト短調 BWV1020",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/473/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 10:00",
-schema:endDate: "2015-05-02 10:20",
-event:status: null,
-schema:name: "さきらジュニアオーケストラ",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "さきらジュニアオーケストラ"
-},
-lfjb:program: "J.S.バッハ：アンナ・マグダレーナ・バッハの音楽帳 より",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール"
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "一般販売チケット",
-event:apstart: " "
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: false,
-schema:priceSpecification: null,
-schema:price: 0,
-schema:priceCurrency: "JPY",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/241/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 10:30",
-schema:endDate: "2015-05-02 11:30",
-event:status: "発売中",
-schema:name: "藤原未佳子(ソプラノ)／齋藤まり子(ピアノ)",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"藤原未佳子(ソプラノ)",
-"齋藤まり子(ピアノ)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-1",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5336",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-1",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5336",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/250/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 17:15",
-schema:endDate: "2015-05-03 18:45",
-event:status: "発売中",
-schema:name: "(１)中路友恵(マリンバ)／村上奈美(フルート)／河本清子(ピアノ)　(２)アンサンブル・レ・ゾンブル",
-schema:description: "90分のクルーズ中に各グループ20分ずつのコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"中路友恵(マリンバ)、村上奈美(フルート)、河本清子(ピアノ)",
-"アンサンブル・レ・ゾンブル"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-5",
-schema:priceSpecification: "有料",
-schema:price: "一般3,500円、3歳〜小学生2,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5350",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-5",
-schema:priceSpecification: "有料",
-schema:price: "一般3,500円、3歳〜小学生2,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5350",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/249/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 15:40",
-schema:endDate: "2015-05-03 16:40",
-event:status: "発売中",
-schema:name: "中路友恵(マリンバ)／村上奈美(フルート)／河本清子(ピアノ)",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"中路友恵(マリンバ)",
-"村上奈美(フルート)",
-"河本清子(ピアノ)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-4",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5349",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-4",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5349",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/248/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 14:00",
-schema:endDate: "2015-05-03 15:00",
-event:status: "発売中（お早めに）",
-schema:name: "中路友恵(マリンバ)／村上奈美(フルート)／河本清子(ピアノ)",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"中路友恵(マリンバ)",
-"村上奈美(フルート)",
-"河本清子(ピアノ)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-3",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5348",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-3",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5348",
-schema:name: "友の会先行販売チケット",
-event:apstart: " "
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/247/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 10:30",
-schema:endDate: "2015-05-03 11:30",
-event:status: "発売中",
-schema:name: "西田歩美(サックス)／齋藤まり子(ピアノ)",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"西田歩美(サックス)",
-"齋藤まり子(ピアノ)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-1",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5346",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-1",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5346",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/246/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 12:10",
-schema:endDate: "2015-05-03 13:10",
-event:status: "発売中",
-schema:name: "西田歩美(サックス)／齋藤まり子(ピアノ)",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"西田歩美(サックス)",
-"齋藤まり子(ピアノ)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-2",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5347",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-ﾐｼｶﾞﾝ-2",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5347",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/245/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 17:15",
-schema:endDate: "2015-05-02 18:45",
-event:status: "発売中（お早めに）",
-schema:name: "(１)井高寛朗ジャズバンド　(２)アンサンブル・レ・ゾンブル",
-schema:description: "90分のクルーズ中に各グループ20分ずつのコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"井高寛朗ジャズバンド",
-"井高寛朗(ピアノ)、井上歓喜(サックス)",
-"アンサンブル・レ・ゾンブル"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-5",
-schema:priceSpecification: "有料",
-schema:price: "一般3,500円、3歳〜小学生2,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5345",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-5",
-schema:priceSpecification: "有料",
-schema:price: "一般3,500円、3歳〜小学生2,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5345",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/244/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 14:00",
-schema:endDate: "2015-05-02 15:00",
-event:status: "発売中（残りわずか）",
-schema:name: "井高寛朗ジャズバンド",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"井高寛朗ジャズバンド",
-"井高寛朗(ピアノ)、井上歓喜(サックス)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-3",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5343",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-3",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5343",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/243/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 15:40",
-schema:endDate: "2015-05-02 16:40",
-event:status: "発売中",
-schema:name: "井高寛朗ジャズバンド",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"井高寛朗ジャズバンド",
-"井高寛朗(ピアノ)、井上歓喜(サックス)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-4",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5344",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-4",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5344",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/242/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 12:10",
-schema:endDate: "2015-05-02 13:10",
-event:status: "発売中",
-schema:name: "藤原未佳子(ソプラノ)／齋藤まり子(ピアノ)",
-schema:description: "60分のクルーズ中に約20分のコンサートをお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"藤原未佳子(ソプラノ)",
-"齋藤まり子(ピアノ)"
-]
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市浜大津5-1",
-schema:name: "大津港旅客ターミナル（湖上会場）",
-schema:url: "http://www.biwakokisen.co.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/琵琶湖汽船",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.012538",
-schema:longitude: "135.866037"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-2",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5342",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-ﾐｼｶﾞﾝ-2",
-schema:priceSpecification: "有料",
-schema:price: "一般2,500円、3歳〜小学生1,500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5342",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/127/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 10:00",
-schema:endDate: "2015-05-03 10:45",
-event:status: "発売中",
-schema:name: "０歳児からのコンサート③京都フィルハーモニー室内合奏団",
-schema:description: "バロック音楽は難しいイメージ？小編成の管弦楽で楽しく聴ける名曲をお届けします。初めてのオーケストラ体験にオススメ♪",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "京都フィルハーモニー室内合奏団"
-},
-lfjb:program: [
-"G.F.ヘンデル：見よ勇者は帰る（得賞歌）",
-"J.S.バッハ：G線上のアリア",
-"ヴィヴァルディ：ヴァイオリン協奏曲集「四季」より　夏の第3楽章　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市におの浜1-1-20",
-schema:name: "ピアザ淡海 ピアザホール",
-schema:url: "http://www.piazza-omi.jp/",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.006545",
-schema:longitude: "135.878031"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-P-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5328",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-P-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5328",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/128/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 12:30",
-schema:endDate: "2015-05-03 13:15",
-event:status: "発売中",
-schema:name: "０歳児からのコンサート④日本センチュリー交響楽団弦楽四重奏＆どいかつえ",
-schema:description: "お話を交えてお届けするコンサート。客席参加コーナーもあるので、叩くと音の出るものを持ってこよう♪",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "日本センチュリー交響楽団弦楽四重奏＆どいかつえ"
-},
-lfjb:program: [
-"J.S.バッハ：「楽しき狩こそわが悦び」より “羊は安らかに草を食み”",
-"ヘンデル：「ハープシコード組曲」第5番 より “調子のよい鍛冶屋”　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市におの浜1-1-20",
-schema:name: "ピアザ淡海 ピアザホール",
-schema:url: "http://www.piazza-omi.jp/",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.006545",
-schema:longitude: "135.878031"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-P-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5329",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-P-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5329",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/115/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 17:15",
-schema:endDate: "2015-05-02 18:00",
-event:status: "発売中",
-schema:name: "中野振一郎（チェンバロ）",
-schema:description: "バロック時代の音楽には欠かせない楽器チェンバロ。その名手として名高い中野振一郎の演奏で、バッハほかの作品をお贈りします。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "中野振一郎（チェンバロ）"
-},
-lfjb:program: "未定",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 小ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007213",
-schema:longitude: "135.876933"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-S-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5319",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-S-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5319",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/126/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 16:40",
-schema:endDate: "2015-05-03 17:25",
-event:status: "発売中",
-schema:name: "谷村由美子（ソプラノ）／村上ゆかり（ピアノ）",
-schema:description: "本家フランスのLFJにも出演している谷村由美子は、びわ湖ホール声楽アンサンブルから羽ばたいた逸材。名アリアの数々を楽しんで。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"谷村由美子（ソプラノ）",
-"村上ゆかり（ピアノ）"
-]
-},
-lfjb:program: [
-"J.S.バッハ：「ヨハネ受難曲」BWV245より “私もまた、喜ばしい足取りであなたについてゆきます”",
-"J.S.バッハ：「コーヒーカンタータ」BWV211より “あぁ、なんてコーヒーは美味しいんでしょう”",
-"ヘンデル：歌劇『ジュリオ・チェーザレ』より “私は運命を嘆き悲しむでしょう”　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 小ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007213",
-schema:longitude: "135.876933"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-S-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5323",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-S-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5323",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/125/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 13:15",
-schema:endDate: "2015-05-03 14:00",
-event:status: "発売中（残りわずか）",
-schema:name: "アンサンブル・レ・ゾンブル",
-schema:description: "テレマンは当時バッハよりも人気のあった作曲家。古楽器アンサンブルの演奏は軽やかで楽しく、バロック音楽の印象を変えてくれる。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "アンサンブル・レ・ゾンブル"
-},
-lfjb:program: [
-"テレマン：パリ四重奏曲第1番 ト長調",
-"テレマン：パリ四重奏曲第2番 ト短調",
-"テレマン：新パリ四重奏曲第1番 二長調"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 小ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007213",
-schema:longitude: "135.876933"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-S-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5322",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-S-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5322",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/124/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 10:30",
-schema:endDate: "2015-05-03 11:15",
-event:status: "完売",
-schema:name: "エドガー・モロー(チェロ)",
-schema:description: "チェリストが一生かけて取り組む課題と言われる作品。奏者の息遣いまで聴こえる、無伴奏ならではの濃密な空間を味わいたい人に。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "エドガー・モロー(チェロ)"
-},
-lfjb:program: [
-"J.S.バッハ：無伴奏チェロ組曲第1番 ト長調 BWV1007",
-"J.S.バッハ：無伴奏チェロ組曲第3番 ハ長調 BWV1009"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 小ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007213",
-schema:longitude: "135.876933"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-S-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5321",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-S-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5321",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/123/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 16:40",
-schema:endDate: "2015-05-03 18:00",
-event:status: "発売中",
-schema:name: "エカテリーナ・デルジャヴィナ(ピアノ)",
-schema:description: "美しいアリアとそれに続く30の変奏曲が、まるで音の万華鏡のように次々と新たな輝きを見せてくれる。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "エカテリーナ・デルジャヴィナ(ピアノ)"
-},
-lfjb:program: "J.S.バッハ：ゴルトベルク変奏曲 BWV988",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 中ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.00736",
-schema:longitude: "135.876448"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-M-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5315",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-M-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5315",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/122/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 13:15",
-schema:endDate: "2015-05-03 14:00",
-event:status: "発売中",
-schema:name: "イリーナ・メジューエワ（ピアノ）",
-schema:description: "パルティータ６番は、洗練された音楽の中に静かな情熱が感じられる名曲。毎回新鮮な驚きをもたらしてくれるメジューエワに期待。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "イリーナ・メジューエワ（ピアノ）"
-},
-lfjb:program: "J.S.バッハ：パルティータ第6番 ホ短調 BWV830　ほか　",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 中ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.00736",
-schema:longitude: "135.876448"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-M-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5314",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-M-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5314",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/121/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 10:30",
-schema:endDate: "2015-05-03 11:15",
-event:status: "発売中",
-schema:name: "びわ湖ホール四大テノール／河合珠江(ピアノ)",
-schema:description: "四大テノール、歌声で日本を元気にすべく今年も登場。曲席を感動と笑いの渦に巻き込むパシオン(情熱)バロックをお楽しみに！",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"びわ湖ホール四大テノール",
-"清水徹太郎／竹内直紀／二塚直紀／山本康寛(テノール)",
-"河合珠江(ピアノ)"
-]
-},
-lfjb:program: [
-"J.S.バッハ：トッカータとフーガ 二短調",
-"J.S.バッハ：主よ、人の望みの喜びよ",
-"ヘンデル：オラトリオ「メサイヤ」より“すべての谷よ”“ハレルヤ・コーラス”",
-"ヘンデル：歌劇『セルセ』より“オンブラ・マイ・フ”"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 中ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.00736",
-schema:longitude: "135.876448"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-M-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5320",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-M-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5320",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/120/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 18:30",
-schema:endDate: "2015-05-03 19:15",
-event:status: "発売中",
-schema:name: "大阪フィルハーモニー交響楽団／ナビル・シェハタ(指揮)",
-schema:description: "「水上の音楽」は、ロンドンのテムズ川で王が舟遊びをする際に演奏されたと言われる名曲。琵琶湖岸で王侯気分に浸ってみては？",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"大阪フィルハーモニー交響楽団",
-"ナビル・シェハタ(指揮)"
-]
-},
-lfjb:program: [
-"ヘンデル：オラトリオ「メサイア」 より “ピファ（田園曲）”",
-"ヘンデル：合奏協奏曲 ロ短調 op.6-12",
-"ヘンデル（ハーティ編）：「水上の音楽」"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 大ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007147",
-schema:longitude: "135.877293"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-L-3",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5313",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-L-3",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5313",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/109/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 18:45",
-schema:endDate: "2015-05-02 19:30",
-event:status: "発売中",
-schema:name: "大阪フィルハーモニー交響楽団／ナビル・シェハタ（指揮）",
-schema:description: "原曲とはひと味違う迫力サウンドが楽しめるバッハ屈指の名曲選・管弦楽版。中でもドラマティックな「トッカータとフーガ」は必聴！",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"大阪フィルハーモニー交響楽団",
-"ナビル・シェハタ（指揮）"
-]
-},
-lfjb:program: [
-"J.S.バッハ（ストコフスキー編）：前奏曲 変ホ短調 BWV853",
-"J.S.バッハ（ストコフスキー編）：パッサカリアとフーガ ハ短調 BWV582",
-"J.S.バッハ（ストコフスキー編）：トッカータとフーガ ニ短調 BWV565",
-"J.S.バッハ（齋藤秀雄編）：シャコンヌ（無伴奏ヴァイオリン・パルティータ第2番 ニ短調 BWV1004より）"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 大ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007147",
-schema:longitude: "135.877293"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-L-3",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5306",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-L-3",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5306",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/119/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 14:55",
-schema:endDate: "2015-05-03 15:55",
-event:status: "発売中",
-schema:name: "デジュー・ラーンキ（ピアノ）／フュロップ・ラーンキ（ピアノ）／エディト・クルコン（ピアノ）／コンチェルト・ブダペスト／アンドラーシュ・ケラー（指揮）",
-schema:description: "ハンガリーを代表するピアニスト、ラーンキが一家で登場！３台のピアノが舞台に並ぶ協奏曲と日本初演作品は聴き逃せない。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"デジュー・ラーンキ（ピアノ）",
-"フュロップ・ラーンキ（ピアノ）",
-"エディト・クルコン（ピアノ）",
-"コンチェルト・ブダペスト",
-"アンドラーシュ・ケラー（指揮）"
-]
-},
-lfjb:program: [
-"ドゥカイ：上弦の月のライオンの井戸―赤―　【日本初演】",
-"J.S.バッハ：2台のピアノのための協奏曲第1番 ハ短調 BWV1060",
-"J.S.バッハ：3台のピアノのための協奏曲第1番 ニ短調 BWV1063",
-"J.S.バッハ(ドゥカイ編)：コラール前奏曲「最愛のイエスは、私たちは」BWV714　【日本初演】",
-"J.S.バッハ：3台のピアノのための協奏曲第2番 ハ長調 BWV1064"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 大ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007147",
-schema:longitude: "135.877293"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-L-2",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5309",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-L-2",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5309",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/118/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-03 11:45",
-schema:endDate: "2015-05-03 12:30",
-event:status: "発売中",
-schema:name: "セルゲ・ツィンマーマン（ヴァイオリン）／コンチェルト・ブダペスト／アンドラーシュ・ケラー（ヴァイオリン、指揮）",
-schema:description: "「2つのヴァイオリンのための協奏曲」第２楽章の美しさは格別。ヴァイオリニスト達の音の対話を楽しんで。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"セルゲ・ツィンマーマン（ヴァイオリン）",
-"コンチェルト・ブダペスト",
-"アンドラーシュ・ケラー（ヴァイオリン、指揮）"
-]
-},
-lfjb:program: [
-"J.S.バッハ：ヴァイオリン協奏曲第1番 イ短調 BWV1041",
-"J.S.バッハ：2つのヴァイオリンのための協奏曲 ハ短調 BWV1060",
-"J.S.バッハ：2つのヴァイオリンのための協奏曲 ニ短調 BWV1043"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 大ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007147",
-schema:longitude: "135.877293"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-L-1",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5307",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "03-L-1",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5307",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/116/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 10:00",
-schema:endDate: "2015-05-02 10:45",
-event:status: "発売中",
-schema:name: "０歳児からのコンサート①IL DONGRIイル・ドングリ",
-schema:description: "びわ湖ホール声楽アンサンブルのOB・OGによるユニットがLFJに初登場。あたたかく優しい歌声に包まれるひとときを。",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"IL DONGRIイル・ドングリ",
-"中嶋康子(ソプラノ)",
-"森 季子(メゾソプラノ)",
-"山本康寛(テノール)",
-"松森 治(バス)",
-"船橋美穂(ピアノ)"
-]
-},
-lfjb:program: [
-"J.S.バッハ：主よ、人の望みの喜びよ",
-"ヘンデル：“ハレルヤ・コーラス”　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市におの浜1-1-20",
-schema:name: "ピアザ淡海 ピアザホール",
-schema:url: "http://www.piazza-omi.jp/",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.006545",
-schema:longitude: "135.878031"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-P-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5317",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-P-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5317",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/117/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 13:00",
-schema:endDate: "2015-05-02 13:45",
-event:status: "発売中",
-schema:name: "０歳児からのコンサート②中谷満とパーカッションアンサンブル「シュレーゲル」",
-schema:description: "子どもに親しみやすい打楽器で奏でられるバッハやヘンデルの名曲たち。大人もバロックの魅力を再発見できるはず♪",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "中谷満とパーカッションアンサンブル「シュレーゲル」"
-},
-lfjb:program: [
-"ヘンデル：組曲「水上の音楽」より",
-"J.S.バッハ：小フーガ ト短調 BWV578",
-"アルフィエリ：タンバリンのためのファンファーレ　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市におの浜1-1-20",
-schema:name: "ピアザ淡海 ピアザホール",
-schema:url: "http://www.piazza-omi.jp/",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.006545",
-schema:longitude: "135.878031"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-P-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5327",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-P-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,000円 小学生以下500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5327",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/114/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 14:30",
-schema:endDate: "2015-05-02 15:15",
-event:status: "発売中（残りわずか）",
-schema:name: "アンサンブル・レ・ゾンブル",
-schema:description: "バッハと、次男C.P.E.バッハの作品を、フルート、ヴァイオリン、ヴィオラ・ダ・ガンバ、チェンバロの四重奏で。親子の作風の違いが面白い。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "アンサンブル・レ・ゾンブル"
-},
-lfjb:program: [
-"J.S.バッハ：王の主題によるトリオ・ソナタ(音楽の捧げものBWV1079より)",
-"C.P.E.バッハ：「大王について」(トリオ・ソナタ ト長調 Wq .144より)"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 小ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007213",
-schema:longitude: "135.876933"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-S-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5318",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-S-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5318",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/113/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 11:15",
-schema:endDate: "2015-05-02 12:00",
-event:status: "発売中（残りわずか）",
-schema:name: "ヴォックス・クラマンティス／ヤーン=エイク・トゥルヴェ（指揮）",
-schema:description: "中世と現代の音楽を得意とするアンサンブル、ア・カペラ合唱でびわ湖に初登場。フリードリヒ２世に捧げられたバッハ晩年の傑作を。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"ヴォックス・クラマンティス",
-"ヤーン=エイク・トゥルヴェ（指揮）"
-]
-},
-lfjb:program: "J.S.バッハ：音楽の捧げもの BWV1079",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 小ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007213",
-schema:longitude: "135.876933"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-S-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5316",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-S-1",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5316",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/112/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 17:15",
-schema:endDate: "2015-05-02 18:00",
-event:status: "発売中",
-schema:name: "アンヌ・ケフェレック（ピアノ）",
-schema:description: "ケフェレックの叙情的な音色で紡がれるバロックに浸るひと時。特にブゾーニ編曲のコラールは短いながらも心に迫る名曲。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: "アンヌ・ケフェレック（ピアノ）"
-},
-lfjb:program: [
-"ヘンデル：パッサカリア ト短調 HWV432",
-"J.S.バッハ（ブゾーニ編）：コラール前奏曲「いざ来たれ、異教徒の救い主よ」 BWV659",
-"マルチェッロ（J.S.バッハ編）：オーボエ協奏曲 ニ短調 BWV974より アダージョ",
-"スカルラッティ：ソナタ ト長調 K.144",
-"スカルラッティ：ソナタ ト長調 K.103",
-"スカルラッティ：ソナタ ロ短調 K.27",
-"J.S.バッハ（ブゾーニ編）：コラール前奏曲「主イエス・キリスト、われ汝を呼ぶ」 ヘ短調 BWV639",
-"J.S.バッハ（ヘス編）：主よ、人の望みの喜びよ",
-"ヘンデル：シャコンヌ ト長調 HWV 435"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 中ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.00736",
-schema:longitude: "135.876448"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-M-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5311",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-M-3",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5311",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/111/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 14:30",
-schema:endDate: "2015-05-02 15:15",
-event:status: "発売中",
-schema:name: "びわ湖ホール声楽アンサンブル／田中信昭（指揮）",
-schema:description: "日本合唱音楽界の第一人者を指揮に迎え、バッハ、ヘンデルといったバロックの名作をお贈りします。どうぞお楽しみに。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"びわ湖ホール声楽アンサンブル",
-"田中信昭（指揮）",
-"中嶋 香(ピアノ)"
-]
-},
-lfjb:program: "ヘンデル：オラトリオ「メサイア」 HWV56 より　“ハレルヤ・コーラス” ほか",
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 中ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.00736",
-schema:longitude: "135.876448"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-M-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5310",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-M-2",
-schema:priceSpecification: "有料",
-schema:price: "全席1,500円 小学生以下1,000円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5310",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/110/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 11:00",
-schema:endDate: "2015-05-02 12:30",
-event:status: "発売中",
-schema:name: "書道、きらめくバロックの世界へ",
-schema:description: "LFJびわ湖の名物企画。今年は４本のサックスが紡ぐバッハとヘンデルの調べにのせて筆が描き出す世界！",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"書道パフォーマンス：（公社）滋賀県書道協会",
-"演奏：ミ・ベモル サクソフォンアンサンブルより",
-"植田藍子、白石尚美、板倉峻、亀井友恵",
-"脚本・演出：中村敬一"
-]
-},
-lfjb:program: [
-"J.S.バッハ：イタリア協奏曲BWV971 第1楽章",
-"ヘンデル：オンブラ・マイ・フ　ほか"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 中ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.00736",
-schema:longitude: "135.876448"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-M-1",
-schema:priceSpecification: "有料",
-schema:price: "全席500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5308",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-M-1",
-schema:priceSpecification: "有料",
-schema:price: "全席500円",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5308",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/108/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 15:45",
-schema:endDate: "2015-05-02 16:30",
-event:status: "発売中",
-schema:name: "日本センチュリー交響楽団／本名徹次（指揮）",
-schema:description: "緻密なアンサンブルに定評のあるセンチュリー響、本領発揮のプログラム。バッハの管弦楽組曲で典雅な気分に浸りたい。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"日本センチュリー交響楽団",
-"本名徹次（指揮）",
-"寺本義明（フルート・東京都交響楽団首席フルート奏者）"
-]
-},
-lfjb:program: [
-"ヘンデル：組曲「王宮の花火の音楽」",
-"J.S.バッハ：管弦楽組曲第2番 ロ短調 BWV1067"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 大ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007147",
-schema:longitude: "135.877293"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-L-2",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5305",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-L-2",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5305",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-},
-{
-@id: "http://lfjb.biwako-hall.or.jp/events/107/jsonld/",
-@type: "schema:Event",
-schema:startDate: "2015-05-02 12:30",
-schema:endDate: "2015-05-02 13:15",
-event:status: "発売中",
-schema:name: "アンヌ・ケフェレック（ピアノ）／日本センチュリー交響楽団／本名徹次（指揮）",
-schema:description: "LFJの顔ケフェレックによるピアノ協奏曲。５番の２楽章は美しいメロディーが印象的で“バッハのアリオーソ”としても知られる。",
-schema:typicalAgeRange: "3-",
-schema:performer: {
-@type: "schema:Person",
-schema:name: [
-"アンヌ・ケフェレック（ピアノ）",
-"日本センチュリー交響楽団",
-"本名徹次（指揮）",
-"寺本義明（フルート・東京都交響楽団首席フルート奏者）",
-"松浦奈々（ヴァイオリン・日本センチュリー交響楽団コンサートマスター）",
-"大塚直哉（チェンバロ・東京藝術大学准教授）"
-]
-},
-lfjb:program: [
-"J.S.バッハ：ブランデンブルク協奏曲第5番 ニ長調 BWV1050",
-"J.S.バッハ：ピアノ協奏曲第4番 イ長調 BWV1055",
-"J.S.バッハ：ピアノ協奏曲第5番 ヘ短調 BWV1056"
-],
-schema:location: {
-schema:address: "滋賀県大津市打出浜15-1",
-schema:url: "http://www.biwako-hall.or.jp/",
-schema:sameAs: "http://ja.dbpedia.org/page/びわ湖ホール",
-schema:name: "びわ湖ホール 大ホール",
-schema:geo: {
-@type: "schema:GeoCoordinates",
-schema:latitude: "35.007147",
-schema:longitude: "135.877293"
-}
-},
-schema:offers: [
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-L-1",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5303",
-schema:name: "一般販売チケット",
-event:apstart: "2015-03-01 10:00"
-},
-{
-@type: "schema:Offer",
-schema:serialNumber: "02-L-1",
-schema:priceSpecification: "有料",
-schema:price: "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
-schema:priceCurrency: "JPY",
-schema:url: "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5303",
-schema:name: "友の会先行販売チケット",
-event:apstart: "2015-02-23 10:00"
-}
-],
-@context: "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
-}
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/487/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 12:00",
+    "schema:endDate": "2015-05-02 12:20",
+    "event:status": null,
+    "schema:name": "大津商業高等学校吹奏楽部",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "大津商業高等学校吹奏楽部"
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/493/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 14:10",
+    "schema:endDate": "2015-05-02 14:30",
+    "event:status": null,
+    "schema:name": "河瀬中学・高等学校吹奏楽部",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "河瀬中学・高等学校吹奏楽部"
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/499/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 15:55",
+    "schema:endDate": "2015-05-02 16:15",
+    "event:status": null,
+    "schema:name": "稲垣 聡（ピアノ）",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "稲垣 聡（ピアノ）"
+    },
+    "lfjb:program": "J.S.バッハ：フランス組曲 第4番 変ホ長調 BWV815 ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/501/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 17:25",
+    "schema:endDate": "2015-05-02 17:45",
+    "event:status": null,
+    "schema:name": "マーティン・スタンツェライト",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "マーティン・スタンツェライト",
+        "（広島交響楽団首席チェロ奏者）"
+      ]
+    },
+    "lfjb:program": "J.S.バッハ：無伴奏チェロ組曲 第1番 ト長調 BWV1007",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/503/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 18:10",
+    "schema:endDate": "2015-05-02 18:30",
+    "event:status": null,
+    "schema:name": "びわ湖ホール声楽アンサンブル",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "びわ湖ホール声楽アンサンブル",
+        "田中信昭（指揮）中嶋 香（ピアノ）"
+      ]
+    },
+    "lfjb:program": "ヘンデル：オラトリオ「メサイア」より",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/507/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 10:20",
+    "schema:endDate": "2015-05-03 10:40",
+    "event:status": null,
+    "schema:name": "瀬田北中学校吹奏楽部",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "瀬田北中学校吹奏楽部"
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/511/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 11:20",
+    "schema:endDate": "2015-05-03 11:40",
+    "event:status": null,
+    "schema:name": "近江高等学校吹奏楽部",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "近江高等学校吹奏楽部"
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/515/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 12:35",
+    "schema:endDate": "2015-05-03 12:55",
+    "event:status": null,
+    "schema:name": "甲西高等学校吹奏楽部",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "甲西高等学校吹奏楽部"
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/521/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 14:20",
+    "schema:endDate": "2015-05-03 14:40",
+    "event:status": null,
+    "schema:name": "飯嶋幸子、岩川亮子、平尾 悠(ソプラノ)／ 本田華奈子(アルト)／島影聖人、古屋彰久 (テノール)／五島真澄、砂場拓也、 的場正剛(バス)／植松さやか(ピアノ)",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "飯嶋幸子、岩川亮子、平尾 悠(ソプラノ)／ 本田華奈子(アルト)／島影聖人、古屋彰久 (テノール)／五島真澄、砂場拓也、 的場正剛(バス)／植松さやか(ピアノ)"
+    },
+    "lfjb:program": "ヘンデル：歌劇『ジュリオ・チェーザレ』より“この胸に息のある限り” ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/525/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 15:20",
+    "schema:endDate": "2015-05-03 15:40",
+    "event:status": null,
+    "schema:name": "イリーナ・メジューエワ（ピアノ）",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "イリーナ・メジューエワ（ピアノ）"
+    },
+    "lfjb:program": [
+      "J.S.バッハ：平均律クラヴィーア曲集第1巻より　プレリュードとフーガ ハ長調",
+      "J.S.バッハ：イタリア協奏曲より 第3楽章 ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/529/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 17:30",
+    "schema:endDate": "2015-05-03 17:50",
+    "event:status": null,
+    "schema:name": "IL DONGRIイル・ドングリ　",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "IL DONGRIイル・ドングリ　",
+        "中嶋康子（ソプラノ）、森季子（メゾソプラノ） 山本康寛（テノール）、松森 治（バス） 船橋美穂（ピアノ）"
+      ]
+    },
+    "lfjb:program": "ヘンデル：「メサイア」より",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/519/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 13:50",
+    "schema:endDate": "2015-05-03 14:10",
+    "event:status": null,
+    "schema:name": "FUJIMI Jr. Band",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "FUJIMI Jr. Band"
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/483/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 11:00",
+    "schema:endDate": "2015-05-02 11:20",
+    "event:status": null,
+    "schema:name": "滋賀県高等学校軽音楽部会(JR大津駅前社会実験野外Liveからやってきました!!)",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "滋賀県高等学校軽音楽部会",
+        "（JR大津駅前社会実験野外Liveからやってきました!!）"
+      ]
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/489/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 12:40",
+    "schema:endDate": "2015-05-02 13:00",
+    "event:status": null,
+    "schema:name": "第33回滋賀県ピアノコンクール入賞者",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "中嶋 雫（ピアノ／小学校3・4年部門／滋賀県議会議長賞）",
+        "今井菜名子（ピアノ／小学校5・6年部門／滋賀県知事賞）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：インヴェンション 第14番 変ロ長調 ほか",
+      "J.S.バッハ：イタリア協奏曲より 第3楽章 ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/491/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 13:40",
+    "schema:endDate": "2015-05-02 14:00",
+    "event:status": null,
+    "schema:name": "ko-trioと仲間たち",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "山本 英（フルート）、岩﨑弓乃（ヴァイオリン） 岩﨑弓夏（チェロ）、黒沼香恋（ピアノ）"
+    },
+    "lfjb:program": "J.S.バッハ：音楽の捧げもの BWV1079より ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/495/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 14:40",
+    "schema:endDate": "2015-05-02 15:00",
+    "event:status": null,
+    "schema:name": "田中玲奈（フルート／兵庫芸術文化センター管弦楽団メンバー） 法貴彩子（ピアノ）",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "田中玲奈（フルート） 法貴彩子（ピアノ）"
+    },
+    "lfjb:program": [
+      "ヘンデル：フルート・ソナタ ヘ長調 op1-11",
+      "J.S.バッハ：管弦楽組曲 第２番より バディネリ ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/497/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 15:10",
+    "schema:endDate": "2015-05-02 15:30",
+    "event:status": null,
+    "schema:name": "四條畷学園高等学校吹奏楽部　Burning Bravers",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "四條畷学園高等学校吹奏楽部",
+        "Burning Bravers(第42回マーチングバンド全国大会／高等学校の部／マーチング部門大編成／銀賞)"
+      ]
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/485/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 11:30",
+    "schema:endDate": "2015-05-02 11:50",
+    "event:status": null,
+    "schema:name": "日野少年少女合唱団",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "日野少年少女合唱団",
+        "菱川きよみ（指揮）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：主よ、人の望みの喜びよ",
+      "ヘンデル：オンブラ・マイ・フ ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/505/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 9:50",
+    "schema:endDate": "2015-05-03 10:10",
+    "event:status": null,
+    "schema:name": "大津管弦楽団　金管アンサンブル",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "北村美繁、齋藤信彦（トランペット）岩井桃代（ホルン）",
+        "山本晶大、横塚祐衣（トロンボーン）川田良一（チューバ）"
+      ]
+    },
+    "lfjb:program": "ヘンデル：オンブラ・マイ・フ ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/509/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 10:50",
+    "schema:endDate": "2015-05-03 11:10",
+    "event:status": null,
+    "schema:name": "堀内星良（ヴァイオリン）、今岡秀樹（ヴァイオリン）、村田知穂（ピアノ）",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "堀内星良（ヴァイオリン）",
+        "今岡秀輝（ヴァイオリン）",
+        "村田知穂（ピアノ）"
+      ]
+    },
+    "lfjb:program": "ヘンデル：ソナタ ト短調 op.2-7 ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/513/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 12:00",
+    "schema:endDate": "2015-05-03 12:20",
+    "event:status": null,
+    "schema:name": "PARADE（マリンバ三重奏／第6回アンサンブルの楽しみ一般出場者）",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "小泉 渚",
+        "山本瑞季",
+        "吉田周平"
+      ]
+    },
+    "lfjb:program": "ヘンデルメドレー「ヘンデル・ヘンデス」（編曲：小泉渚）　ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/517/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 13:20",
+    "schema:endDate": "2015-05-03 13:40",
+    "event:status": null,
+    "schema:name": "びわ湖ホール四大テノール",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "びわ湖ホール四大テノール",
+        "（清水徹太郎／竹内直紀／ 二塚直紀／山本康寛）",
+        "河合珠江（ピアノ）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：「クリスマス・オラトリオ」より 羊飼いたちよ、喜んで急げ",
+      "ヘンデル：見よ！勇者は帰る　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/523/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 14:50",
+    "schema:endDate": "2015-05-03 15:10",
+    "event:status": null,
+    "schema:name": "武庫川女子大学附属中学校・ 高等学校マーチングバンド部 Eins",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "武庫川女子大学附属中学校・ 高等学校マーチングバンド部",
+        "Eins(第39回マーチングバンド全国大会／高等学校の部／マーチングバンド部門大編成／金賞)"
+      ]
+    },
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜１５",
+      "schema:name": "びわ湖ホール 湖畔広場",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007726",
+        "schema:longitude": "135.876333"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/527/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 16:50",
+    "schema:endDate": "2015-05-03 17:10",
+    "event:status": null,
+    "schema:name": "高山郁子（京都市交響楽団首席オーボエ奏者）、岡 純子（ピアノ）",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "高山郁子（京都市交響楽団首席オーボエ奏者）",
+        "岡 純子（ピアノ）"
+      ]
+    },
+    "lfjb:program": "J.S.バッハ：ソナタ ト短調 BWV1020",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/473/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 10:00",
+    "schema:endDate": "2015-05-02 10:20",
+    "event:status": null,
+    "schema:name": "さきらジュニアオーケストラ",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "さきらジュニアオーケストラ"
+    },
+    "lfjb:program": "J.S.バッハ：アンナ・マグダレーナ・バッハの音楽帳 より",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール"
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "一般販売チケット",
+        "event:apstart": " "
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": false,
+        "schema:priceSpecification": null,
+        "schema:price": 0,
+        "schema:priceCurrency": "JPY",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/241/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 10:30",
+    "schema:endDate": "2015-05-02 11:30",
+    "event:status": "発売中",
+    "schema:name": "藤原未佳子(ソプラノ)／齋藤まり子(ピアノ)",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "藤原未佳子(ソプラノ)",
+        "齋藤まり子(ピアノ)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5336",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5336",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/250/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 17:15",
+    "schema:endDate": "2015-05-03 18:45",
+    "event:status": "発売中",
+    "schema:name": "(１)中路友恵(マリンバ)／村上奈美(フルート)／河本清子(ピアノ)　(２)アンサンブル・レ・ゾンブル",
+    "schema:description": "90分のクルーズ中に各グループ20分ずつのコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "中路友恵(マリンバ)、村上奈美(フルート)、河本清子(ピアノ)",
+        "アンサンブル・レ・ゾンブル"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-5",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般3,500円、3歳〜小学生2,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5350",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-5",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般3,500円、3歳〜小学生2,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5350",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/249/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 15:40",
+    "schema:endDate": "2015-05-03 16:40",
+    "event:status": "発売中",
+    "schema:name": "中路友恵(マリンバ)／村上奈美(フルート)／河本清子(ピアノ)",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "中路友恵(マリンバ)",
+        "村上奈美(フルート)",
+        "河本清子(ピアノ)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-4",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5349",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-4",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5349",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/248/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 14:00",
+    "schema:endDate": "2015-05-03 15:00",
+    "event:status": "発売中（お早めに）",
+    "schema:name": "中路友恵(マリンバ)／村上奈美(フルート)／河本清子(ピアノ)",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "中路友恵(マリンバ)",
+        "村上奈美(フルート)",
+        "河本清子(ピアノ)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5348",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5348",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": " "
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/247/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 10:30",
+    "schema:endDate": "2015-05-03 11:30",
+    "event:status": "発売中",
+    "schema:name": "西田歩美(サックス)／齋藤まり子(ピアノ)",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "西田歩美(サックス)",
+        "齋藤まり子(ピアノ)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5346",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5346",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/246/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 12:10",
+    "schema:endDate": "2015-05-03 13:10",
+    "event:status": "発売中",
+    "schema:name": "西田歩美(サックス)／齋藤まり子(ピアノ)",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "西田歩美(サックス)",
+        "齋藤まり子(ピアノ)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5347",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-ﾐｼｶﾞﾝ-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5347",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/245/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 17:15",
+    "schema:endDate": "2015-05-02 18:45",
+    "event:status": "発売中（お早めに）",
+    "schema:name": "(１)井高寛朗ジャズバンド　(２)アンサンブル・レ・ゾンブル",
+    "schema:description": "90分のクルーズ中に各グループ20分ずつのコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "井高寛朗ジャズバンド",
+        "井高寛朗(ピアノ)、井上歓喜(サックス)",
+        "アンサンブル・レ・ゾンブル"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-5",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般3,500円、3歳〜小学生2,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5345",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-5",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般3,500円、3歳〜小学生2,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5345",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/244/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 14:00",
+    "schema:endDate": "2015-05-02 15:00",
+    "event:status": "発売中（残りわずか）",
+    "schema:name": "井高寛朗ジャズバンド",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "井高寛朗ジャズバンド",
+        "井高寛朗(ピアノ)、井上歓喜(サックス)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5343",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5343",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/243/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 15:40",
+    "schema:endDate": "2015-05-02 16:40",
+    "event:status": "発売中",
+    "schema:name": "井高寛朗ジャズバンド",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "井高寛朗ジャズバンド",
+        "井高寛朗(ピアノ)、井上歓喜(サックス)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-4",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5344",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-4",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5344",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/242/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 12:10",
+    "schema:endDate": "2015-05-02 13:10",
+    "event:status": "発売中",
+    "schema:name": "藤原未佳子(ソプラノ)／齋藤まり子(ピアノ)",
+    "schema:description": "60分のクルーズ中に約20分のコンサートをお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "藤原未佳子(ソプラノ)",
+        "齋藤まり子(ピアノ)"
+      ]
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市浜大津5-1",
+      "schema:name": "大津港旅客ターミナル（湖上会場）",
+      "schema:url": "http://www.biwakokisen.co.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/琵琶湖汽船",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.012538",
+        "schema:longitude": "135.866037"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5342",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-ﾐｼｶﾞﾝ-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "一般2,500円、3歳〜小学生1,500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5342",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/127/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 10:00",
+    "schema:endDate": "2015-05-03 10:45",
+    "event:status": "発売中",
+    "schema:name": "０歳児からのコンサート③京都フィルハーモニー室内合奏団",
+    "schema:description": "バロック音楽は難しいイメージ？小編成の管弦楽で楽しく聴ける名曲をお届けします。初めてのオーケストラ体験にオススメ♪",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "京都フィルハーモニー室内合奏団"
+    },
+    "lfjb:program": [
+      "G.F.ヘンデル：見よ勇者は帰る（得賞歌）",
+      "J.S.バッハ：G線上のアリア",
+      "ヴィヴァルディ：ヴァイオリン協奏曲集「四季」より　夏の第3楽章　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市におの浜1-1-20",
+      "schema:name": "ピアザ淡海 ピアザホール",
+      "schema:url": "http://www.piazza-omi.jp/",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.006545",
+        "schema:longitude": "135.878031"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-P-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5328",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-P-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5328",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/128/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 12:30",
+    "schema:endDate": "2015-05-03 13:15",
+    "event:status": "発売中",
+    "schema:name": "０歳児からのコンサート④日本センチュリー交響楽団弦楽四重奏＆どいかつえ",
+    "schema:description": "お話を交えてお届けするコンサート。客席参加コーナーもあるので、叩くと音の出るものを持ってこよう♪",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "日本センチュリー交響楽団弦楽四重奏＆どいかつえ"
+    },
+    "lfjb:program": [
+      "J.S.バッハ：「楽しき狩こそわが悦び」より “羊は安らかに草を食み”",
+      "ヘンデル：「ハープシコード組曲」第5番 より “調子のよい鍛冶屋”　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市におの浜1-1-20",
+      "schema:name": "ピアザ淡海 ピアザホール",
+      "schema:url": "http://www.piazza-omi.jp/",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.006545",
+        "schema:longitude": "135.878031"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-P-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5329",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-P-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5329",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/115/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 17:15",
+    "schema:endDate": "2015-05-02 18:00",
+    "event:status": "発売中",
+    "schema:name": "中野振一郎（チェンバロ）",
+    "schema:description": "バロック時代の音楽には欠かせない楽器チェンバロ。その名手として名高い中野振一郎の演奏で、バッハほかの作品をお贈りします。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "中野振一郎（チェンバロ）"
+    },
+    "lfjb:program": "未定",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 小ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007213",
+        "schema:longitude": "135.876933"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-S-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5319",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-S-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5319",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/126/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 16:40",
+    "schema:endDate": "2015-05-03 17:25",
+    "event:status": "発売中",
+    "schema:name": "谷村由美子（ソプラノ）／村上ゆかり（ピアノ）",
+    "schema:description": "本家フランスのLFJにも出演している谷村由美子は、びわ湖ホール声楽アンサンブルから羽ばたいた逸材。名アリアの数々を楽しんで。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "谷村由美子（ソプラノ）",
+        "村上ゆかり（ピアノ）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：「ヨハネ受難曲」BWV245より “私もまた、喜ばしい足取りであなたについてゆきます”",
+      "J.S.バッハ：「コーヒーカンタータ」BWV211より “あぁ、なんてコーヒーは美味しいんでしょう”",
+      "ヘンデル：歌劇『ジュリオ・チェーザレ』より “私は運命を嘆き悲しむでしょう”　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 小ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007213",
+        "schema:longitude": "135.876933"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-S-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5323",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-S-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5323",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/125/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 13:15",
+    "schema:endDate": "2015-05-03 14:00",
+    "event:status": "発売中（残りわずか）",
+    "schema:name": "アンサンブル・レ・ゾンブル",
+    "schema:description": "テレマンは当時バッハよりも人気のあった作曲家。古楽器アンサンブルの演奏は軽やかで楽しく、バロック音楽の印象を変えてくれる。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "アンサンブル・レ・ゾンブル"
+    },
+    "lfjb:program": [
+      "テレマン：パリ四重奏曲第1番 ト長調",
+      "テレマン：パリ四重奏曲第2番 ト短調",
+      "テレマン：新パリ四重奏曲第1番 二長調"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 小ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007213",
+        "schema:longitude": "135.876933"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-S-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5322",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-S-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5322",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/124/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 10:30",
+    "schema:endDate": "2015-05-03 11:15",
+    "event:status": "完売",
+    "schema:name": "エドガー・モロー(チェロ)",
+    "schema:description": "チェリストが一生かけて取り組む課題と言われる作品。奏者の息遣いまで聴こえる、無伴奏ならではの濃密な空間を味わいたい人に。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "エドガー・モロー(チェロ)"
+    },
+    "lfjb:program": [
+      "J.S.バッハ：無伴奏チェロ組曲第1番 ト長調 BWV1007",
+      "J.S.バッハ：無伴奏チェロ組曲第3番 ハ長調 BWV1009"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 小ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007213",
+        "schema:longitude": "135.876933"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-S-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5321",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-S-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5321",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/123/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 16:40",
+    "schema:endDate": "2015-05-03 18:00",
+    "event:status": "発売中",
+    "schema:name": "エカテリーナ・デルジャヴィナ(ピアノ)",
+    "schema:description": "美しいアリアとそれに続く30の変奏曲が、まるで音の万華鏡のように次々と新たな輝きを見せてくれる。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "エカテリーナ・デルジャヴィナ(ピアノ)"
+    },
+    "lfjb:program": "J.S.バッハ：ゴルトベルク変奏曲 BWV988",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 中ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.00736",
+        "schema:longitude": "135.876448"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-M-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5315",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-M-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5315",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/122/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 13:15",
+    "schema:endDate": "2015-05-03 14:00",
+    "event:status": "発売中",
+    "schema:name": "イリーナ・メジューエワ（ピアノ）",
+    "schema:description": "パルティータ６番は、洗練された音楽の中に静かな情熱が感じられる名曲。毎回新鮮な驚きをもたらしてくれるメジューエワに期待。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "イリーナ・メジューエワ（ピアノ）"
+    },
+    "lfjb:program": "J.S.バッハ：パルティータ第6番 ホ短調 BWV830　ほか　",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 中ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.00736",
+        "schema:longitude": "135.876448"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-M-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5314",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-M-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5314",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/121/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 10:30",
+    "schema:endDate": "2015-05-03 11:15",
+    "event:status": "発売中",
+    "schema:name": "びわ湖ホール四大テノール／河合珠江(ピアノ)",
+    "schema:description": "四大テノール、歌声で日本を元気にすべく今年も登場。曲席を感動と笑いの渦に巻き込むパシオン(情熱)バロックをお楽しみに！",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "びわ湖ホール四大テノール",
+        "清水徹太郎／竹内直紀／二塚直紀／山本康寛(テノール)",
+        "河合珠江(ピアノ)"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：トッカータとフーガ 二短調",
+      "J.S.バッハ：主よ、人の望みの喜びよ",
+      "ヘンデル：オラトリオ「メサイヤ」より“すべての谷よ”“ハレルヤ・コーラス”",
+      "ヘンデル：歌劇『セルセ』より“オンブラ・マイ・フ”"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 中ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.00736",
+        "schema:longitude": "135.876448"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-M-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5320",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-M-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5320",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/120/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 18:30",
+    "schema:endDate": "2015-05-03 19:15",
+    "event:status": "発売中",
+    "schema:name": "大阪フィルハーモニー交響楽団／ナビル・シェハタ(指揮)",
+    "schema:description": "「水上の音楽」は、ロンドンのテムズ川で王が舟遊びをする際に演奏されたと言われる名曲。琵琶湖岸で王侯気分に浸ってみては？",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "大阪フィルハーモニー交響楽団",
+        "ナビル・シェハタ(指揮)"
+      ]
+    },
+    "lfjb:program": [
+      "ヘンデル：オラトリオ「メサイア」 より “ピファ（田園曲）”",
+      "ヘンデル：合奏協奏曲 ロ短調 op.6-12",
+      "ヘンデル（ハーティ編）：「水上の音楽」"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 大ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007147",
+        "schema:longitude": "135.877293"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-L-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5313",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-L-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5313",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/109/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 18:45",
+    "schema:endDate": "2015-05-02 19:30",
+    "event:status": "発売中",
+    "schema:name": "大阪フィルハーモニー交響楽団／ナビル・シェハタ（指揮）",
+    "schema:description": "原曲とはひと味違う迫力サウンドが楽しめるバッハ屈指の名曲選・管弦楽版。中でもドラマティックな「トッカータとフーガ」は必聴！",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "大阪フィルハーモニー交響楽団",
+        "ナビル・シェハタ（指揮）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ（ストコフスキー編）：前奏曲 変ホ短調 BWV853",
+      "J.S.バッハ（ストコフスキー編）：パッサカリアとフーガ ハ短調 BWV582",
+      "J.S.バッハ（ストコフスキー編）：トッカータとフーガ ニ短調 BWV565",
+      "J.S.バッハ（齋藤秀雄編）：シャコンヌ（無伴奏ヴァイオリン・パルティータ第2番 ニ短調 BWV1004より）"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 大ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007147",
+        "schema:longitude": "135.877293"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-L-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5306",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-L-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5306",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/119/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 14:55",
+    "schema:endDate": "2015-05-03 15:55",
+    "event:status": "発売中",
+    "schema:name": "デジュー・ラーンキ（ピアノ）／フュロップ・ラーンキ（ピアノ）／エディト・クルコン（ピアノ）／コンチェルト・ブダペスト／アンドラーシュ・ケラー（指揮）",
+    "schema:description": "ハンガリーを代表するピアニスト、ラーンキが一家で登場！３台のピアノが舞台に並ぶ協奏曲と日本初演作品は聴き逃せない。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "デジュー・ラーンキ（ピアノ）",
+        "フュロップ・ラーンキ（ピアノ）",
+        "エディト・クルコン（ピアノ）",
+        "コンチェルト・ブダペスト",
+        "アンドラーシュ・ケラー（指揮）"
+      ]
+    },
+    "lfjb:program": [
+      "ドゥカイ：上弦の月のライオンの井戸―赤―　【日本初演】",
+      "J.S.バッハ：2台のピアノのための協奏曲第1番 ハ短調 BWV1060",
+      "J.S.バッハ：3台のピアノのための協奏曲第1番 ニ短調 BWV1063",
+      "J.S.バッハ(ドゥカイ編)：コラール前奏曲「最愛のイエスは、私たちは」BWV714　【日本初演】",
+      "J.S.バッハ：3台のピアノのための協奏曲第2番 ハ長調 BWV1064"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 大ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007147",
+        "schema:longitude": "135.877293"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-L-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5309",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-L-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5309",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/118/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-03 11:45",
+    "schema:endDate": "2015-05-03 12:30",
+    "event:status": "発売中",
+    "schema:name": "セルゲ・ツィンマーマン（ヴァイオリン）／コンチェルト・ブダペスト／アンドラーシュ・ケラー（ヴァイオリン、指揮）",
+    "schema:description": "「2つのヴァイオリンのための協奏曲」第２楽章の美しさは格別。ヴァイオリニスト達の音の対話を楽しんで。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "セルゲ・ツィンマーマン（ヴァイオリン）",
+        "コンチェルト・ブダペスト",
+        "アンドラーシュ・ケラー（ヴァイオリン、指揮）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：ヴァイオリン協奏曲第1番 イ短調 BWV1041",
+      "J.S.バッハ：2つのヴァイオリンのための協奏曲 ハ短調 BWV1060",
+      "J.S.バッハ：2つのヴァイオリンのための協奏曲 ニ短調 BWV1043"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 大ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007147",
+        "schema:longitude": "135.877293"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-L-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5307",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "03-L-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5307",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/116/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 10:00",
+    "schema:endDate": "2015-05-02 10:45",
+    "event:status": "発売中",
+    "schema:name": "０歳児からのコンサート①IL DONGRIイル・ドングリ",
+    "schema:description": "びわ湖ホール声楽アンサンブルのOB・OGによるユニットがLFJに初登場。あたたかく優しい歌声に包まれるひとときを。",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "IL DONGRIイル・ドングリ",
+        "中嶋康子(ソプラノ)",
+        "森 季子(メゾソプラノ)",
+        "山本康寛(テノール)",
+        "松森 治(バス)",
+        "船橋美穂(ピアノ)"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：主よ、人の望みの喜びよ",
+      "ヘンデル：“ハレルヤ・コーラス”　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市におの浜1-1-20",
+      "schema:name": "ピアザ淡海 ピアザホール",
+      "schema:url": "http://www.piazza-omi.jp/",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.006545",
+        "schema:longitude": "135.878031"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-P-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5317",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-P-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5317",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/117/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 13:00",
+    "schema:endDate": "2015-05-02 13:45",
+    "event:status": "発売中",
+    "schema:name": "０歳児からのコンサート②中谷満とパーカッションアンサンブル「シュレーゲル」",
+    "schema:description": "子どもに親しみやすい打楽器で奏でられるバッハやヘンデルの名曲たち。大人もバロックの魅力を再発見できるはず♪",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "中谷満とパーカッションアンサンブル「シュレーゲル」"
+    },
+    "lfjb:program": [
+      "ヘンデル：組曲「水上の音楽」より",
+      "J.S.バッハ：小フーガ ト短調 BWV578",
+      "アルフィエリ：タンバリンのためのファンファーレ　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市におの浜1-1-20",
+      "schema:name": "ピアザ淡海 ピアザホール",
+      "schema:url": "http://www.piazza-omi.jp/",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.006545",
+        "schema:longitude": "135.878031"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-P-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5327",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-P-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,000円 小学生以下500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5327",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/114/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 14:30",
+    "schema:endDate": "2015-05-02 15:15",
+    "event:status": "発売中（残りわずか）",
+    "schema:name": "アンサンブル・レ・ゾンブル",
+    "schema:description": "バッハと、次男C.P.E.バッハの作品を、フルート、ヴァイオリン、ヴィオラ・ダ・ガンバ、チェンバロの四重奏で。親子の作風の違いが面白い。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "アンサンブル・レ・ゾンブル"
+    },
+    "lfjb:program": [
+      "J.S.バッハ：王の主題によるトリオ・ソナタ(音楽の捧げものBWV1079より)",
+      "C.P.E.バッハ：「大王について」(トリオ・ソナタ ト長調 Wq .144より)"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 小ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007213",
+        "schema:longitude": "135.876933"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-S-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5318",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-S-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5318",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/113/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 11:15",
+    "schema:endDate": "2015-05-02 12:00",
+    "event:status": "発売中（残りわずか）",
+    "schema:name": "ヴォックス・クラマンティス／ヤーン=エイク・トゥルヴェ（指揮）",
+    "schema:description": "中世と現代の音楽を得意とするアンサンブル、ア・カペラ合唱でびわ湖に初登場。フリードリヒ２世に捧げられたバッハ晩年の傑作を。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "ヴォックス・クラマンティス",
+        "ヤーン=エイク・トゥルヴェ（指揮）"
+      ]
+    },
+    "lfjb:program": "J.S.バッハ：音楽の捧げもの BWV1079",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 小ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007213",
+        "schema:longitude": "135.876933"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-S-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5316",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-S-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5316",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/112/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 17:15",
+    "schema:endDate": "2015-05-02 18:00",
+    "event:status": "発売中",
+    "schema:name": "アンヌ・ケフェレック（ピアノ）",
+    "schema:description": "ケフェレックの叙情的な音色で紡がれるバロックに浸るひと時。特にブゾーニ編曲のコラールは短いながらも心に迫る名曲。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": "アンヌ・ケフェレック（ピアノ）"
+    },
+    "lfjb:program": [
+      "ヘンデル：パッサカリア ト短調 HWV432",
+      "J.S.バッハ（ブゾーニ編）：コラール前奏曲「いざ来たれ、異教徒の救い主よ」 BWV659",
+      "マルチェッロ（J.S.バッハ編）：オーボエ協奏曲 ニ短調 BWV974より アダージョ",
+      "スカルラッティ：ソナタ ト長調 K.144",
+      "スカルラッティ：ソナタ ト長調 K.103",
+      "スカルラッティ：ソナタ ロ短調 K.27",
+      "J.S.バッハ（ブゾーニ編）：コラール前奏曲「主イエス・キリスト、われ汝を呼ぶ」 ヘ短調 BWV639",
+      "J.S.バッハ（ヘス編）：主よ、人の望みの喜びよ",
+      "ヘンデル：シャコンヌ ト長調 HWV 435"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 中ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.00736",
+        "schema:longitude": "135.876448"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-M-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5311",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-M-3",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5311",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/111/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 14:30",
+    "schema:endDate": "2015-05-02 15:15",
+    "event:status": "発売中",
+    "schema:name": "びわ湖ホール声楽アンサンブル／田中信昭（指揮）",
+    "schema:description": "日本合唱音楽界の第一人者を指揮に迎え、バッハ、ヘンデルといったバロックの名作をお贈りします。どうぞお楽しみに。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "びわ湖ホール声楽アンサンブル",
+        "田中信昭（指揮）",
+        "中嶋 香(ピアノ)"
+      ]
+    },
+    "lfjb:program": "ヘンデル：オラトリオ「メサイア」 HWV56 より　“ハレルヤ・コーラス” ほか",
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 中ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.00736",
+        "schema:longitude": "135.876448"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-M-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5310",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-M-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席1,500円 小学生以下1,000円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5310",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/110/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 11:00",
+    "schema:endDate": "2015-05-02 12:30",
+    "event:status": "発売中",
+    "schema:name": "書道、きらめくバロックの世界へ",
+    "schema:description": "LFJびわ湖の名物企画。今年は４本のサックスが紡ぐバッハとヘンデルの調べにのせて筆が描き出す世界！",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "書道パフォーマンス：（公社）滋賀県書道協会",
+        "演奏：ミ・ベモル サクソフォンアンサンブルより",
+        "植田藍子、白石尚美、板倉峻、亀井友恵",
+        "脚本・演出：中村敬一"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：イタリア協奏曲BWV971 第1楽章",
+      "ヘンデル：オンブラ・マイ・フ　ほか"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 中ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.00736",
+        "schema:longitude": "135.876448"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-M-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5308",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-M-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "全席500円",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5308",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/108/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 15:45",
+    "schema:endDate": "2015-05-02 16:30",
+    "event:status": "発売中",
+    "schema:name": "日本センチュリー交響楽団／本名徹次（指揮）",
+    "schema:description": "緻密なアンサンブルに定評のあるセンチュリー響、本領発揮のプログラム。バッハの管弦楽組曲で典雅な気分に浸りたい。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "日本センチュリー交響楽団",
+        "本名徹次（指揮）",
+        "寺本義明（フルート・東京都交響楽団首席フルート奏者）"
+      ]
+    },
+    "lfjb:program": [
+      "ヘンデル：組曲「王宮の花火の音楽」",
+      "J.S.バッハ：管弦楽組曲第2番 ロ短調 BWV1067"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 大ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007147",
+        "schema:longitude": "135.877293"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-L-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5305",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-L-2",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5305",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  },
+  {
+    "@id": "http://lfjb.biwako-hall.or.jp/events/107/jsonld/",
+    "@type": "schema:Event",
+    "schema:startDate": "2015-05-02 12:30",
+    "schema:endDate": "2015-05-02 13:15",
+    "event:status": "発売中",
+    "schema:name": "アンヌ・ケフェレック（ピアノ）／日本センチュリー交響楽団／本名徹次（指揮）",
+    "schema:description": "LFJの顔ケフェレックによるピアノ協奏曲。５番の２楽章は美しいメロディーが印象的で“バッハのアリオーソ”としても知られる。",
+    "schema:typicalAgeRange": "3-",
+    "schema:performer": {
+      "@type": "schema:Person",
+      "schema:name": [
+        "アンヌ・ケフェレック（ピアノ）",
+        "日本センチュリー交響楽団",
+        "本名徹次（指揮）",
+        "寺本義明（フルート・東京都交響楽団首席フルート奏者）",
+        "松浦奈々（ヴァイオリン・日本センチュリー交響楽団コンサートマスター）",
+        "大塚直哉（チェンバロ・東京藝術大学准教授）"
+      ]
+    },
+    "lfjb:program": [
+      "J.S.バッハ：ブランデンブルク協奏曲第5番 ニ長調 BWV1050",
+      "J.S.バッハ：ピアノ協奏曲第4番 イ長調 BWV1055",
+      "J.S.バッハ：ピアノ協奏曲第5番 ヘ短調 BWV1056"
+    ],
+    "schema:location": {
+      "schema:address": "滋賀県大津市打出浜15-1",
+      "schema:url": "http://www.biwako-hall.or.jp/",
+      "schema:sameAs": "http://ja.dbpedia.org/page/びわ湖ホール",
+      "schema:name": "びわ湖ホール 大ホール",
+      "schema:geo": {
+        "@type": "schema:GeoCoordinates",
+        "schema:latitude": "35.007147",
+        "schema:longitude": "135.877293"
+      }
+    },
+    "schema:offers": [
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-L-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5303",
+        "schema:name": "一般販売チケット",
+        "event:apstart": "2015-03-01 10:00"
+      },
+      {
+        "@type": "schema:Offer",
+        "schema:serialNumber": "02-L-1",
+        "schema:priceSpecification": "有料",
+        "schema:price": "S席2,000円 A席1,500円<br/>小学生以下S・A共に500円引き",
+        "schema:priceCurrency": "JPY",
+        "schema:url": "https://www2.biwako-hall.or.jp/cs_eticket/QueryEventDetail.cgi?fromPageId=EventSearch&SEQ=5303",
+        "schema:name": "友の会先行販売チケット",
+        "event:apstart": "2015-02-23 10:00"
+      }
+    ],
+    "@context": "http://lfjb.biwako-hall.or.jp/2015/jsonld-context/"
+  }
 ]
