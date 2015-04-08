@@ -3,7 +3,7 @@
         colors="true">
     <testsuites>
         <testsuite name="LFJBParser">
-            <directory>src</directory>
+            <directory suffix="Test.php">.</directory>
         </testsuite>
     </testsuites>
     <filter>
