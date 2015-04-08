@@ -13,15 +13,24 @@ class LFJBParser
 
     function __construct()
     {
+        $this->defaultOptions = array(
+            "strongParse" => false
+        );
     }
 
     public function parse($eventJSON, $options)
     {
-        $defaultOptions = array();
     }
 
+    /**
+     * @param $performerJSON
+     * @param array $options
+     * @return array
+     * @throws \Exception
+     */
     public function parsePerformer($performerJSON, $options = array())
     {
+        $_options = array_merge($this->defaultOptions, $options);
         if (!isset($performerJSON['@type']) || $performerJSON['@type'] != "schema:Person") {
             throw new \Exception("Unknown schema");
         }
@@ -29,7 +38,7 @@ class LFJBParser
         $performers = array();
         if (is_array($names)) {
             foreach ($names as $name) {
-                $performers = array_merge($performers, $this->explodePerformerName($name));
+                $performers = array_merge($performers, $this->explodePerformerName($name, $_options['strongParse']));
             }
         } else {
             $performers = $this->explodePerformerName($names);
@@ -48,18 +57,27 @@ class LFJBParser
     {
         $persons = array();
         foreach ($personNames as $personName) {
-            $persons[] = array(
-                "@type" => "schema:Person",
-                "schema:name" => $personName
-            );
+            if (strpos($personName, "（") === 0) {
+                $persons[count($persons) - 1]['schema:name'] = $persons[count($persons) - 1]['schema:name'] . $personName;
+            } else {
+                $persons[] = array(
+                    "@type" => "schema:Person",
+                    "schema:name" => $personName
+                );
+            }
         }
         return $persons;
     }
 
-    private function explodePerformerName($name)
+    private function explodePerformerName($name, $strong = false)
     {
-        $name = preg_replace("/([（|(][^）|^)]+、.+[）|)])|([（|(][^）|^)]+／.+[）|)])|(、)|(／)/", "$1$2,", $name);
-        $name = preg_replace("/） |）/", "）,", $name);
+        // "（"ではじまりかつ "／" がある場合は "（）"を外す
+        // TODO 誤変換の可能性があるため要検証
+        if ($strong && strpos($name, "（") === 0 && strpos($name, "／") !== FALSE) {
+            $name = preg_replace("/\A（|）\z/u", "", $name);
+        }
+        $name = preg_replace("/([（|(][^）|^)]+、.+[）|)])|([（|(][^）|^)]+／.+[）|)])|(、)|(／)/u", "$1$2,", $name);
+        $name = preg_replace("/([)|）]) |([)|）])/u", "$1$2,", $name);
         return array_filter(explode(",", $name), "strlen");
     }
 }
