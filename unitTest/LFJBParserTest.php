@@ -72,5 +72,13 @@ class LFJBParserTest extends \PHPUnit_Framework_TestCase
         $result = $this->parser->parseDate("20120201 11:11");
         $expected = $this->parsedJSONLD[0]['schema:startDate'];
     }
+
+    public function  testParse()
+    {
+        $eventData = $this->originalJSONLD[0];
+        $expected = $this->parsedJSONLD[0];
+        $result = $this->parser->parse($eventData, array('strongParse' => true));
+        $this->assertEquals($expected, $result);
+    }
 }
  

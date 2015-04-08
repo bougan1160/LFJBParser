@@ -18,8 +18,19 @@ class LFJBParser
         );
     }
 
-    public function parse($eventJSON, $options)
+    public function parse($eventJSON, $options = array())
     {
+        if (!isset($eventJSON['@type']) || $eventJSON['@type'] != "schema:Event") {
+            throw new \Exception("Unknown schema");
+        }
+        if (isset($eventJSON['schema:startDate']))
+            $eventJSON['schema:startDate'] = $this->parseDate($eventJSON['schema:startDate'], $options);
+        if (isset($eventJSON['schema:endDate']))
+            $eventJSON['schema:endDate'] = $this->parseDate($eventJSON['schema:endDate'], $options);
+        if (isset($eventJSON['schema:performer']))
+            $eventJSON['schema:performer'] = $this->parsePerformer($eventJSON['schema:performer'], $options);
+
+        return $eventJSON;
     }
 
     /**
@@ -50,6 +61,7 @@ class LFJBParser
 
     public function parseDate($dateJSON, $options = array())
     {
+        $_options = array_merge($this->defaultOptions, $options);
         $dateStr = mb_convert_kana($dateJSON, "as");
         $dateTime = \DateTime::createFromFormat('Y-m-d H:i', $dateStr, new \DateTimeZone('Asia/Tokyo'));
         if ($dateTime == FALSE) {
