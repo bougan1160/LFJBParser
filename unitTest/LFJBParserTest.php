@@ -54,5 +54,23 @@ class LFJBParserTest extends \PHPUnit_Framework_TestCase
         $performerData = $this->originalJSONLD[0];
         $this->parser->parsePerformer($performerData);
     }
+
+    public function testParseDate()
+    {
+        $dateData = $this->originalJSONLD[0]['schema:startDate'];
+        $result = $this->parser->parseDate($dateData);
+        $expected = $this->parsedJSONLD[0]['schema:startDate'];
+        $this->assertEquals($expected, $result);
+    }
+
+    /**
+     * @expectedException        Exception
+     * @expectedExceptionMessage Invalid date format
+     */
+    public function testParseInvalidFormatDate()
+    {
+        $result = $this->parser->parseDate("20120201 11:11");
+        $expected = $this->parsedJSONLD[0]['schema:startDate'];
+    }
 }
  

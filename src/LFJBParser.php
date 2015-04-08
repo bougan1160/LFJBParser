@@ -48,9 +48,14 @@ class LFJBParser
         return $performerJSON;
     }
 
-    public function parseDate($dateJSON, $options)
+    public function parseDate($dateJSON, $options = array())
     {
-
+        $dateStr = mb_convert_kana($dateJSON, "as");
+        $dateTime = \DateTime::createFromFormat('Y-m-d H:i', $dateStr, new \DateTimeZone('Asia/Tokyo'));
+        if ($dateTime == FALSE) {
+            throw new \Exception('Invalid date format');
+        }
+        return $dateTime->format(\DateTime::ISO8601);
     }
 
     private function createPersonSchema($personNames)
